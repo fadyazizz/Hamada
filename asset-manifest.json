@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Hamada/static/css/main.3303447b.chunk.css",
+    "main.js": "/Hamada/static/js/main.77f5adad.chunk.js",
+    "main.js.map": "/Hamada/static/js/main.77f5adad.chunk.js.map",
+    "runtime-main.js": "/Hamada/static/js/runtime-main.aef71ab9.js",
+    "runtime-main.js.map": "/Hamada/static/js/runtime-main.aef71ab9.js.map",
+    "static/js/2.05223cb6.chunk.js": "/Hamada/static/js/2.05223cb6.chunk.js",
+    "static/js/2.05223cb6.chunk.js.map": "/Hamada/static/js/2.05223cb6.chunk.js.map",
+    "static/js/3.88e5df73.chunk.js": "/Hamada/static/js/3.88e5df73.chunk.js",
+    "static/js/3.88e5df73.chunk.js.map": "/Hamada/static/js/3.88e5df73.chunk.js.map",
+    "index.html": "/Hamada/index.html",
+    "static/css/main.3303447b.chunk.css.map": "/Hamada/static/css/main.3303447b.chunk.css.map",
+    "static/js/2.05223cb6.chunk.js.LICENSE.txt": "/Hamada/static/js/2.05223cb6.chunk.js.LICENSE.txt",
+    "static/media/World.3c219f11.jpg": "/Hamada/static/media/World.3c219f11.jpg",
+    "static/media/agreement.d91c6b0d.jpg": "/Hamada/static/media/agreement.d91c6b0d.jpg",
+    "static/media/appraise1.f738bc4c.jpg": "/Hamada/static/media/appraise1.f738bc4c.jpg",
+    "static/media/arabInvest.7c872978.jpg": "/Hamada/static/media/arabInvest.7c872978.jpg",
+    "static/media/arabUnion1.23271888.jpg": "/Hamada/static/media/arabUnion1.23271888.jpg",
+    "static/media/bank.0fdaa358.jpg": "/Hamada/static/media/bank.0fdaa358.jpg",
+    "static/media/cv.css": "/Hamada/static/media/landing.b3b6bedd.png",
+    "static/media/consultant.ff4e1002.jpg": "/Hamada/static/media/consultant.ff4e1002.jpg",
+    "static/media/court.a73cad53.jpg": "/Hamada/static/media/court.a73cad53.jpg",
+    "static/media/economic.ccbeacb9.jpg": "/Hamada/static/media/economic.ccbeacb9.jpg",
+    "static/media/expertReal.246930f8.jpg": "/Hamada/static/media/expertReal.246930f8.jpg",
+    "static/media/gears1.60e51b97.jpg": "/Hamada/static/media/gears1.60e51b97.jpg",
+    "static/media/instagram.e719d8b2.png": "/Hamada/static/media/instagram.e719d8b2.png",
+    "static/media/integration.6b128a31.jpg": "/Hamada/static/media/integration.6b128a31.jpg",
+    "static/media/intellect.86abfe32.jpg": "/Hamada/static/media/intellect.86abfe32.jpg",
+    "static/media/logo.6ce24c58.svg": "/Hamada/static/media/logo.6ce24c58.svg",
+    "static/media/nature.093f471d.jpg": "/Hamada/static/media/nature.093f471d.jpg",
+    "static/media/property.653935d6.jpg": "/Hamada/static/media/property.653935d6.jpg",
+    "static/media/realestate.eab34f1b.jpg": "/Hamada/static/media/realestate.eab34f1b.jpg",
+    "static/media/twitter.28b4dce4.png": "/Hamada/static/media/twitter.28b4dce4.png",
+    "static/media/water.09d3277d.jpg": "/Hamada/static/media/water.09d3277d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aef71ab9.js",
+    "static/js/2.05223cb6.chunk.js",
+    "static/css/main.3303447b.chunk.css",
+    "static/js/main.77f5adad.chunk.js"
+  ]
+}
