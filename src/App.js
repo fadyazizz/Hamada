@@ -9,11 +9,10 @@ import {
 import CV from './Components/CV'
 function App() {
   return (
-    <Router>
-      <Switch>
-        <Route exact path='/' render={() => <CV></CV>} />
-      </Switch>
-    </Router>
+    
+     
+        <CV></CV>
+   
   )
 }
 
